@@ -1,0 +1,14 @@
+version: 1
+sequences:
+- protein:
+    id: H
+    sequence: LQLQESGPGLLKPSETLSLTCTVSGGSISSPGYYGGWIRQPPGKGLEWIGSIYKSGSTYHNPSLKSRVTISVDTSKNQFSLKLSSVTAADTAVYYCTRPVVRYFGWFDPWGQGTLVTVSS
+    msa: /src/boltz-hackathon/boltz-hackathon-template/hackathon_data/datasets/abag_public/msa/8YX1_0.csv
+- protein:
+    id: L
+    sequence: AIQLTQSPSSLSASVGDRVTITCRASQGISSALAWYQQKPGKAPKLLIYDASNLESGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQFNSYPTFGQGTKVEIK
+    msa: /src/boltz-hackathon/boltz-hackathon-template/hackathon_data/datasets/abag_public/msa/8YX1_1.csv
+- protein:
+    id: A
+    sequence: EPPTACREKQYLINSQCCSLCQPGQKLVSDCTEFTETECLPCGESEFLDTWNRETHCHQHKYCDPNLGLRVQQKGTSETDTICTCEEGWHCTSEACESCVLHRSCSPGFGVKQIATGVSDTICEPCPVGFFSNVSSAFEKCHPWTSCETKDLVVQQAGTNKTDVVCGPQDRLR
+    msa: /src/boltz-hackathon/boltz-hackathon-template/hackathon_data/datasets/abag_public/msa/8YX1_2.csv
